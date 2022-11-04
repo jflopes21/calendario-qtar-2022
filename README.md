@@ -41,6 +41,7 @@ Você pode visualizar este projeto clicando [aqui](https://jflopes21.github.io/c
 
 Esse projeto está sob a licença MIT.
 
+
 ---
 
 Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
