@@ -35,7 +35,7 @@ O calendário é um componente que simula o formulário de preenchimento de cart
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://csssantos.github.io/nlw_calendario/).
+Você pode visualizar o layout do projeto através .
 
 ## :memo: Licença
 
