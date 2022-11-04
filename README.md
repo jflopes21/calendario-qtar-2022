@@ -35,7 +35,7 @@ O calendário é um componente que simula o formulário de preenchimento de cart
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através .
+Você pode visualizar este projeto clicando [aqui](https://jflopes21.github.io/calendario-qtar-2022/) .
 
 ## :memo: Licença
 
