@@ -35,7 +35,7 @@ O calendário é um projeto desenvolvido com base no projeto feito durante a NLW
 
 ## 🔖 Layout
 
-Você pode visualizar este projeto clicando [aqui](https://jflopes21.github.io/calendario-qtar-2022/) .
+Você pode visualizar este projeto clicando [aqui](https://jflopes21.github.io/calendario-qtar-2022/).
 
 ## :memo: Licença
 
