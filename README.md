@@ -31,11 +31,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O calendário é um componente que simula o formulário de preenchimento de cartão de crédito, onde é possível adicionar máscara aos inputs e atualizar elementos HTML via DOM.
+O calendário é um projeto desenvolvido com base no projeto feito durante a NLW afim de expandir e melhorar os conhecimentos sobre HTML, CSS e JS. Com ele conseguimos visualizar os jogos da fase de grupo da Copa do Mundo de 2022
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://csssantos.github.io/nlw_calendario/).
+Você pode visualizar este projeto clicando [aqui](https://jflopes21.github.io/calendario-qtar-2022/).
 
 ## :memo: Licença
 
